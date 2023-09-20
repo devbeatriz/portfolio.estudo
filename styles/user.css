@@ -24,3 +24,19 @@
 
   border-radius: 12px;
 }
+
+.user__content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  row-gap: 8px;
+}
+
+.user__content h1 {
+  font-size: 32px;
+}
+
+.user__content p {
+  font-size: 18px;
+  font-weight: 300;
+}
