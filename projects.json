@@ -1,32 +1,20 @@
 [
   {
     "name": "UI Clone do Disney Plus",
-    "image": "./assets/projeto-disney-plus.png",
+    "image": "./assets/disneyplus.png",
     "tags": ["HTML", "CSS", "Javascript", "API TMDB"],
-    "link": "https://github.com/leovargasdev/disney-plus"
+    "link": "#"
   },
   {
-    "name": "Formulário integrado com o Netlify Forms",
-    "image": "./assets/projeto-formulario.png",
+    "name": "Guardiões da Galáxia",
+    "image": "./assets/guardioes.png",
     "tags": ["Evento de formulário", "Animações", "Netlify"],
-    "link": "https://github.com/leovargasdev/disney-plus"
+    "link": "#"
   },
   {
-    "name": "Personagens do Guardiões da Galáxia",
-    "image": "./assets/projeto-guardioes.png",
+    "name": "League of Legends",
+    "image": "./assets/lol.png",
     "tags": ["Javascript", "Menu interativo"],
-    "link": "https://github.com/leovargasdev/disney-plus"
-  },
-  {
-    "name": "Landing page do filme Mario Bros",
-    "image": "./assets/projeto-mario.png",
-    "tags": ["Flexbox", "Background animado"],
-    "link": "https://github.com/leovargasdev/disney-plus"
-  },
-  {
-    "name": "UI Clone da Netflix",
-    "image": "./assets/projeto-netflix.png",
-    "tags": ["Responsivo", "Carrousel", "API TMDB"],
-    "link": "https://github.com/leovargasdev/disney-plus"
+    "link": "#"
   }
 ]
