@@ -8,13 +8,13 @@
   {
     "name": "Guardiões da Galáxia",
     "image": "./assets/guardioes.png",
-    "tags": ["Evento de formulário", "Animações", "Netlify"],
+    "tags": ["HTML", "CSS", "Javascript", "Animações"],
     "link": "#"
   },
   {
     "name": "League of Legends",
     "image": "./assets/lol.png",
-    "tags": ["Javascript", "Menu interativo"],
+    "tags": ["Javascript", "Validação"],
     "link": "#"
   }
 ]
